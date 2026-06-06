@@ -1,16 +1,34 @@
-## Hi there 👋
+#include <stdio.h>
 
-<!--
-**ktkoushik07/ktkoushik07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+typedef struct {
+    char *name;
+    char *location;
+    char *degree;
+    char *university;
+    float cgpa;
+    char *stack[6];
+    char *learning[3];
+    char *funFact;
+} Developer;
 
-Here are some ideas to get you started:
+Developer koushik = {
+    .name       = "Koushik KT",
+    .location   = "Chennai, Tamil Nadu, India 🇮🇳",
+    .degree     = "B.E. – Electronics & Communication Engg.",
+    .university = "R.M.D. Engineering College, Anna University",
+    .cgpa       = 8.35,
+    .stack      = {
+        "C", "C++", "Python",
+        "Arduino IDE", "KiCad", "Tinkercad"
+    },
+    .learning   = {
+        "VLSI Design",
+        "IoT Systems",
+        "PCB Design"
+    },
+    .funFact    = "I debug circuits before code 🔌"
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+void motto() {
+    printf("Build. Break. Learn. Repeat.\n");
+}
