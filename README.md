@@ -125,19 +125,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:10b981,100:06b6d4&height=3&section=header" width="100%" alt="divider"/>
 
-<!-- ============ GITHUB STATS ============ -->
-<h2 align="center">GitHub Stats</h2>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=koushikkt&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=d946ef&bg_color=0f172a" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=koushikkt&theme=tokyonight&hide_border=true&ring=d946ef&fire=f59e0b&currStreakLabel=06b6d4&background=0f172a" alt="streak"/>
-  <br/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koushikkt&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&bg_color=0f172a" alt="top langs"/>
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=koushikkt&theme=algolia&no-frame=true&column=7&margin-w=10" alt="trophies"/>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:d946ef&height=3&section=header" width="100%" alt="divider"/>
 
 <!-- ============ CONNECT ============ -->
 <h2 align="center">Connect With Me</h2>
